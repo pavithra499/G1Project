@@ -1,0 +1,31 @@
+Testsuite: org.jikesrvm.classloader.MethodVectorTest
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 14, Time elapsed: 0.016 sec
+
+Testcase: finalArrayIsTrimmedToSize took 0 sec
+	SKIPPED
+Testcase: setElementWorksCorrectly took 0 sec
+	SKIPPED
+Testcase: elementAtWorksForValidIndexes took 0 sec
+	SKIPPED
+Testcase: elementAtDoesNotCheckForTooSmallIndexes took 0 sec
+	SKIPPED
+Testcase: oneMethodIsSavedCorrectly took 0 sec
+	SKIPPED
+Testcase: elementAtReturnsUnintializedValuesForInvalidIndexes took 0 sec
+	SKIPPED
+Testcase: elementAtDoesNotCheckForTooBigIndexes took 0 sec
+	SKIPPED
+Testcase: setElementAtDoesNotCheckForTooSmallIndexes took 0 sec
+	SKIPPED
+Testcase: setElementAtAllowsNullValuesWhichWillCauseTroubleLater took 0 sec
+	SKIPPED
+Testcase: setElementAtAllowsSettingOfValuesForInvalidIndexes took 0 sec
+	SKIPPED
+Testcase: setElementAtDoesNotCheckForTooBigIndexes took 0 sec
+	SKIPPED
+Testcase: addUniqueElementOnlyAddsElementsIfRequired took 0 sec
+	SKIPPED
+Testcase: sizeWorksCorrectly took 0 sec
+	SKIPPED
+Testcase: cachingWorks took 0 sec
+	SKIPPED

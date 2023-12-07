@@ -1,0 +1,41 @@
+<report version="1.1">
+<name>pre-commit</name>
+<variant>pre-commit</variant>
+<revision>c98a20ed57f8f50e4348e95e3825b02ca527d938</revision>
+<start-time>2023-12-07T12:52:01Z</start-time>
+<end-time>2023-12-07T12:52:02Z</end-time>
+<parameters>
+</parameters>
+<host>
+<name>silversun</name>
+<parameters>
+</parameters>
+</host>
+<build-target>
+<name>x86_64-linux</name>
+<parameters>
+<parameter key="target.arch" value="ia32"/>
+<parameter key="target.address.size" value="64"/>
+<parameter key="target.os" value="Linux"/>
+<parameter key="target.bootimage.code.address" value="0x0000020008000000L"/>
+<parameter key="target.bootimage.data.address" value="0x0000020000000000L"/>
+<parameter key="target.bootimage.rmap.address" value="0x000002000c000000L"/>
+<parameter key="target.max-mappable.address" value="0x0000200000000000L"/>
+<parameter key="target.arch.sse2" value="full"/>
+</parameters>
+<build-configuration>
+<name>BaseBaseG1</name>
+<parameters/>
+<duration>0</duration>
+<result>SUCCESS</result>
+<output>Builds are being skipped</output>
+<test-configuration>
+<name>default</name>
+<parameters>
+<parameter key="mode" value="/home/csgrad/pnallamo/605/Test/Project605/dist/BaseBaseG1_x86_64-linux"/>
+<parameter key="mode" value=""/>
+</parameters>
+</test-configuration>
+</build-configuration>
+</build-target>
+</report>

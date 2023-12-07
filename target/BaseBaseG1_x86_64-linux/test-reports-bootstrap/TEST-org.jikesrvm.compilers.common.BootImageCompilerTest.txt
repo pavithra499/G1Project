@@ -1,0 +1,9 @@
+Testsuite: org.jikesrvm.compilers.common.BootImageCompilerTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.012 sec
+
+Testcase: initializingBaselineCompilerOptionsInAdaptiveBuildsWorks took 0 sec
+	SKIPPED
+Testcase: initializingBaselineCompilerOptionsInOptBuildsWorks took 0 sec
+	SKIPPED
+Testcase: initializingBaselineCompilerOptionsInBaselineOnlyBuildsWorks took 0 sec
+	SKIPPED

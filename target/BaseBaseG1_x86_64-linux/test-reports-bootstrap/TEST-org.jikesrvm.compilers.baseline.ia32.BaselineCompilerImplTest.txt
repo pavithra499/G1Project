@@ -1,0 +1,23 @@
+Testsuite: org.jikesrvm.compilers.baseline.ia32.BaselineCompilerImplTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 10, Time elapsed: 0.015 sec
+
+Testcase: emptyStaticMethodInClassWithDynamicBridgeRequiresThireenWordsForSSE2_FULLAndX86 took 0 sec
+	SKIPPED
+Testcase: emptyStaticMethodRequiresThreeWords took 0 sec
+	SKIPPED
+Testcase: printRandomIntegerMethodRequiresSixWords took 0 sec
+	SKIPPED
+Testcase: multiplyByAFewPrimesRequiresFiveWords took 0 sec
+	SKIPPED
+Testcase: emptyInstanceMethodWithParamsRequiresThreeWords took 0 sec
+	SKIPPED
+Testcase: emptyStaticMethodWithBaselineSaveLSRegistersAnnotationRequiresFourWords took 0 sec
+	SKIPPED
+Testcase: emptyStaticMethodInClassWithDynamicBridgeRequiresThirteenWordsForSSE2_FULLAndX64 took 0 sec
+	SKIPPED
+Testcase: emptyInstanceMethodRequiresThreeWords took 0 sec
+	SKIPPED
+Testcase: emptyStaticMethodInClassWithDynamicBridgeRequires32WordsForWhenSSE2_FULLisFalse took 0 sec
+	SKIPPED
+Testcase: methodWithAFewLocalsRequiresFiveWords took 0 sec
+	SKIPPED

@@ -1,0 +1,103 @@
+Testsuite: org.jikesrvm.compilers.opt.bc2ir.GenerationContextTest
+Tests run: 50, Failures: 0, Errors: 0, Skipped: 50, Time elapsed: 0.02 sec
+
+Testcase: inliningInstanceMethodWithRegisterReceiver took 0 sec
+	SKIPPED
+Testcase: resyncDoesNotDeleteNullCheckGuardsThatMapToUsedRegisters took 0 sec
+	SKIPPED
+Testcase: localRegAllowsDifferentTypesForSameLocalNumber took 0 sec
+	SKIPPED
+Testcase: canSaveInformationAboutOSRBarriers took 0 sec
+	SKIPPED
+Testcase: childContextsQueryOSRBarrierInformationViaOutermostParent took 0 sec
+	SKIPPED
+Testcase: osrSpecializedMethodsDoNotHaveMonitorEnterButHaveMonitorExit took 0 sec
+	SKIPPED
+Testcase: noNullCheckGuardsCanBeCreatedAfterCloseWasCalled took 0 sec
+	SKIPPED
+Testcase: resyncDeletesNullCheckGuardsThatMapToUnusedRegisters took 0 sec
+	SKIPPED
+Testcase: makeNullCheckGuardAlwaysReturnsCopies took 0 sec
+	SKIPPED
+Testcase: prologueAndEpilogueForSynchronizedInstanceMethodHaveMonitorEnterAndExit took 0 sec
+	SKIPPED
+Testcase: methodIsSelectedForDebuggingWithMethodToPrintReturnsTrueIfOutermostParentMatches took 0 sec
+	SKIPPED
+Testcase: contextReturnedByGetSynthethicContextContainsOnlyCFG took 0 sec
+	SKIPPED
+Testcase: specializedParametersAreNotSanityChecked took 0 sec
+	SKIPPED
+Testcase: getOriginalMethodReturnsTheOutermostMethod took 0 sec
+	SKIPPED
+Testcase: localRegReturnsRegistersThatAreFlaggedAsLocals took 0 sec
+	SKIPPED
+Testcase: unintBeginAndUnintEndAreAddedWhenNecessary took 0 sec
+	SKIPPED
+Testcase: childContextsSaveOSRBarrierInformationInOutermostParent took 0 sec
+	SKIPPED
+Testcase: basicChildContextsWorkCorrectly took 0 sec
+	SKIPPED
+Testcase: inliningInstanceMethodWithRegisterReceiverNoNarrowing took 0 sec
+	SKIPPED
+Testcase: localRegDoesNotCheckTypeOfLocals took 0 sec
+	SKIPPED
+Testcase: isLocalReturnsTrueForRegistersCreatedViaMakeLocal took 0 sec
+	SKIPPED
+Testcase: getOSRBarrierCausesNPEAfterOSRBarrierInformationWasDiscarded took 0 sec
+	SKIPPED
+Testcase: constructorCreatesOperandsForInstanceMethods took 0 sec
+	SKIPPED
+Testcase: rethrowBlockIsCorrectForSynchronizedMethodInlinedIntoSynchronizedMethod took 0 sec
+	SKIPPED
+Testcase: transferStateThrowsExceptionForContextsWithoutParents took 0 sec
+	SKIPPED
+Testcase: constructorCreatesOperandsForStaticMethodWithParameters took 0 sec
+	SKIPPED
+Testcase: inliningInstanceMethodWithNarrowingOfReferenceParam took 0 sec
+	SKIPPED
+Testcase: inliningMethodWithConstantReceiver took 0 sec
+	SKIPPED
+Testcase: transferStateUpdatesFieldsInParentFromChild took 0 sec
+	SKIPPED
+Testcase: constructorIsCorrectForTheSimplestMethods took 0 sec
+	SKIPPED
+Testcase: savingNoLongerWorksAfterOSRBarrierInformationWasDiscarded took 0 sec
+	SKIPPED
+Testcase: specializationOfParametersIsSupported took 0 sec
+	SKIPPED
+Testcase: getLocalNumberForRegisterReturnsMinusOneIfNotALocal took 0 sec
+	SKIPPED
+Testcase: makeNullCheckGuardReturnsSameGuardForSameRegister took 0 sec
+	SKIPPED
+Testcase: unintBeginAndUnintEndAreNotAddedWhenDirectParentHasThem took 0 sec
+	SKIPPED
+Testcase: prologueAndEpilogueForSynchronizedStaticMethodHaveMonitorEnterAndExit took 0 sec
+	SKIPPED
+Testcase: packagePrivateMakeLocalReturnsRegWithInheritedFlagsAndGuard took 0 sec
+	SKIPPED
+Testcase: getLocalNumberReturnsLocalNumberForRegistersCreateViaMakeLocal took 0 sec
+	SKIPPED
+Testcase: methodsWithReturnValueHaveReturnInstructionInEpilogue took 0 sec
+	SKIPPED
+Testcase: instanceMethodsHaveMovesInPrologue took 0 sec
+	SKIPPED
+Testcase: localRegInvalidLocalNumberCausesArrayOutOfBoundsException took 0 sec
+	SKIPPED
+Testcase: invalidReceiverCausesException took 0 sec
+	SKIPPED
+Testcase: makeLocalUsesLocalRegToDetermineRegisters took 0 sec
+	SKIPPED
+Testcase: localRegistersAreSavedInDifferentPools took 0 sec
+	SKIPPED
+Testcase: threadLocalSynchronizedStaticMethodDoesNotHaveMonitorEnterAndMonitorExit took 0 sec
+	SKIPPED
+Testcase: localRegAlwaysReturnsSameRegisterForSameArguments took 0 sec
+	SKIPPED
+Testcase: annotationsAreTreatedCorrectlyForInlinedMethods took 0 sec
+	SKIPPED
+Testcase: methodIsSelectedForDebuggingWithMethodToPrintReturnsTrueIfMethodOfContextMatches took 0 sec
+	SKIPPED
+Testcase: resyncMustNotBeCalledAfterClose took 0 sec
+	SKIPPED
+Testcase: checkMethodsQueryUnderlyingMethod took 0 sec
+	SKIPPED

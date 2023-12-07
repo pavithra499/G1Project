@@ -1,0 +1,22 @@
+<buildresults>
+<build-target>
+<name>x86_64-linux</name>
+<parameters>
+<parameter key="target.arch" value="ia32"/>
+<parameter key="target.address.size" value="64"/>
+<parameter key="target.os" value="Linux"/>
+<parameter key="target.bootimage.code.address" value="0x0000020008000000L"/>
+<parameter key="target.bootimage.data.address" value="0x0000020000000000L"/>
+<parameter key="target.bootimage.rmap.address" value="0x000002000c000000L"/>
+<parameter key="target.max-mappable.address" value="0x0000200000000000L"/>
+<parameter key="target.arch.sse2" value="full"/>
+</parameters>
+<build-configuration>
+<name>BaseBaseG1</name>
+<parameters></parameters>
+<duration>0</duration>
+<result>SUCCESS</result>
+<output>Builds are being skipped</output>
+</build-configuration>
+</build-target>
+</buildresults>

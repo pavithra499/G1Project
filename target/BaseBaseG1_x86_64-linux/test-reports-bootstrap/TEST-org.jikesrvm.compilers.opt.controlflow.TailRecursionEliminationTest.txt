@@ -1,0 +1,15 @@
+Testsuite: org.jikesrvm.compilers.opt.controlflow.TailRecursionEliminationTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 6, Time elapsed: 0.02 sec
+
+Testcase: callsWithNoTailCallEliminationAnnotationArentSubjectToOptimization took 0 sec
+	SKIPPED
+Testcase: willNotBePerformedOnOptLevel0 took 0 sec
+	SKIPPED
+Testcase: willBePerformedOnOptLevel1 took 0 sec
+	SKIPPED
+Testcase: willBePerformedOnOptLevel2 took 0 sec
+	SKIPPED
+Testcase: unannotatedCallsAreSubjectToOptimization took 0 sec
+	SKIPPED
+Testcase: doesNotThrowExceptionsOnCFGWithoutInstructions took 0 sec
+	SKIPPED

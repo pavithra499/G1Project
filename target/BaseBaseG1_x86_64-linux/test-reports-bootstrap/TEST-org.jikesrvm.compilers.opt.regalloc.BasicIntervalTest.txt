@@ -1,0 +1,29 @@
+Testsuite: org.jikesrvm.compilers.opt.regalloc.BasicIntervalTest
+Tests run: 26, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.092 sec
+
+Testcase: startsBeforeExcludesBegin took 0.004 sec
+Testcase: startsBeforeIntervalExcludesBegin took 0 sec
+Testcase: startsAfterExcludesBegin took 0 sec
+Testcase: endsBeforeExcludesEnd took 0 sec
+Testcase: intervalsContainTheirOwnBegin took 0 sec
+Testcase: intervalsContainTheirOwnEnd took 0 sec
+Testcase: intersectionExcludesEndOfInterval took 0 sec
+Testcase: intervalsCanBeExtendedAtTheEnd took 0 sec
+Testcase: intervalsIntersectWithThemselves took 0 sec
+Testcase: equalObjectsHaveTheSameHashcode took 0 sec
+Testcase: intervalsDoNotContainAnythingSmallerThanTheirBegin took 0 sec
+Testcase: intervalEndMayBeBeforeStart took 0 sec
+Testcase: basicIntervalsAreEqualToThemselves took 0 sec
+Testcase: valuesBetweenBeginAndEndAreContainedInTheInterval took 0 sec
+Testcase: equalIntervalsHaveTheSameRange took 0 sec
+Testcase: endAndBeginAreNotModifiedByConstructor took 0 sec
+Testcase: intersectionIncludesEndOfIntervalMinusOne took 0 sec
+Testcase: sameRangeChecksBeginAndEnd took 0 sec
+Testcase: intersectionExcludesBeginOfInterval took 0 sec
+Testcase: intervalsDoNotContainAnythingGreaterThanTheirEnd took 0 sec
+Testcase: constructorDoesNotCheckBeginAndEnd took 0 sec
+Testcase: intersectionIncludesBeginOfIntervalPlusOne took 0 sec
+Testcase: intervalsWithSameBeginAndEndAreEqual took 0 sec
+Testcase: endsAfterExcludesEnd took 0 sec
+Testcase: endsAfterIntervalExcludesEnd took 0 sec
+Testcase: intervalsCanBeShortenedAtTheEnd took 0 sec

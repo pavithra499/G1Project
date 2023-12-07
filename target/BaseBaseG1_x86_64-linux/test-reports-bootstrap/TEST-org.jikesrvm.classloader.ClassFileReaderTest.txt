@@ -1,0 +1,13 @@
+Testsuite: org.jikesrvm.classloader.ClassFileReaderTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 0.013 sec
+
+Testcase: classFileVersionsHigherThan50AreNotSupported took 0 sec
+	SKIPPED
+Testcase: classFileVersionsLowerThan45AreNotSupported took 0 sec
+	SKIPPED
+Testcase: classFormatErrorIsThrownWhenMagicNumberIsNotPresent took 0 sec
+	SKIPPED
+Testcase: smokeTestForReading took 0 sec
+	SKIPPED
+Testcase: classFileVersionsHigherThan50Minor0AreNotSupported took 0 sec
+	SKIPPED

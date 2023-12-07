@@ -1,0 +1,9 @@
+Testsuite: org.jikesrvm.ExampleThatRequiresJikesRVMTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.013 sec
+
+Testcase: testThatRequiresJikesRVM took 0 sec
+	SKIPPED
+Testcase: testWithNoRequirements took 0 sec
+	SKIPPED
+Testcase: testThatRequiresBootstrapVM took 0 sec
+	SKIPPED

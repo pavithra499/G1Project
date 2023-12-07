@@ -1,0 +1,23 @@
+<results version="1.1">
+<name>pre-commit</name>
+<variant>pre-commit</variant>
+<revision>c98a20ed57f8f50e4348e95e3825b02ca527d938</revision>
+<start-time>2023-12-07T17:17:45Z</start-time>
+<end-time>2023-12-07T17:17:45Z</end-time>
+<parameters>
+</parameters>
+<host>
+<name>silversun</name>
+<parameters>
+</parameters>
+</host>
+<test-configuration>
+<build-configuration>BaseBaseG1</build-configuration>
+<name>default</name>
+<parameters>
+<parameter key="mode" value="/home/csgrad/pnallamo/605/Test/Project605/dist/BaseBaseG1_x86_64-linux"/>
+<parameter key="mode" value=""/>
+</parameters>
+
+</test-configuration>
+</results>

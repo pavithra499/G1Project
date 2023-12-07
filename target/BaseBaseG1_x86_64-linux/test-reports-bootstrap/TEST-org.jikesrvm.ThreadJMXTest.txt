@@ -1,0 +1,11 @@
+Testsuite: org.jikesrvm.ThreadJMXTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 4, Time elapsed: 0.012 sec
+
+Testcase: queryingInvalidThreadIdsYieldsNull took 0 sec
+	SKIPPED
+Testcase: arrayOfThreadIdsIsNonEmpty took 0 sec
+	SKIPPED
+Testcase: queryingThreadMxBeanForSystemThreadYieldsNull took 0 sec
+	SKIPPED
+Testcase: queryingThreadMxBeanDoesntCauseErros took 0 sec
+	SKIPPED

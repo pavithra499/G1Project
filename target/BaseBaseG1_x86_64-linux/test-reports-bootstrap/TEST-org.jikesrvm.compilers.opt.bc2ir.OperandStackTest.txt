@@ -1,0 +1,36 @@
+Testsuite: org.jikesrvm.compilers.opt.bc2ir.OperandStackTest
+Tests run: 33, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.255 sec
+
+Testcase: clearMakesStackSizeZero took 0.124 sec
+Testcase: createEmptyOperandStackWithSameCapacityReturnsAStackWithTheSameCapacity took 0 sec
+Testcase: newlyCreatedOperandStackIsEmpty took 0 sec
+Testcase: usingPopMoreOftenThanPushLeadsToExceptions took 0 sec
+Testcase: largeNegativeArgumentsForGetFromTopCauseException took 0 sec
+Testcase: replaceFromTopForTopmostOperandReplacesTheOperand took 0.019 sec
+Testcase: clearMakesStackSeemEmpty took 0 sec
+Testcase: getFromBottomOnEmptyStackReturnsNull took 0 sec
+Testcase: replaceFromTopStackWithXReturnsItemAtPlaceXFromTheTopOfTheStack took 0 sec
+Testcase: stackDoesNotAppearAsEmptyForGetFromBottom took 0 sec
+Testcase: poppingMoreThanWasPushedLeadsToExceptions took 0 sec
+Testcase: stacksWithNegativeCapacityCannotBeCreated took 0 sec
+Testcase: getFromBottomOnEmptyStackWithCapacityZeroCausesException took 0 sec
+Testcase: swapFailsIfStackContainsNoOperand took 0 sec
+Testcase: largeNegativeArgumentsForReplaceFromTopCauseException took 0 sec
+Testcase: negativeArgumentsForGetFromTopNeedNotCauseException took 0 sec
+Testcase: swapSwapsTwoOperandsWhenTwoOperandsAreOnStack took 0 sec
+Testcase: getFromTopWithXReturnsItemAtPlaceXFromTheTopOfTheStack took 0 sec
+Testcase: getFromBottomCausesExceptionsForNegativeArguments took 0.001 sec
+Testcase: getSizeReturnsNumberOfOperandsOnTheStack took 0.001 sec
+Testcase: createEmptyOperandStackWithSameCapacityReturnsAnEmptyOperandStack took 0 sec
+Testcase: stacksCannotAcceptMorePushesThanCapacityAllows took 0 sec
+Testcase: getFromTopWith0ReturnsTheOperandFromTheTopOfTheStack took 0 sec
+Testcase: getFromBottomWithXReturnsItemAtPlaceXFromTheBottomOfTheStack took 0 sec
+Testcase: swapFailsIfStackContainsOnlyOneOperand took 0 sec
+Testcase: deepCopyCopiesAllOperandsInAStack took 0.001 sec
+Testcase: clearMakesStackSeemEmptyForAlmostAllOperations took 0 sec
+Testcase: getFromBottomWith0ReturnsTheOperandFromTheBottomOfTheStack took 0.001 sec
+Testcase: swapSwapsTheTwoTopmostOperandsWhenEnoughOperandsAreOnStack took 0 sec
+Testcase: stacksMayBeCreatedWithCapacityOfZero took 0 sec
+Testcase: pop2OnEmptyStackCausesException took 0 sec
+Testcase: popOnEmptyStackCausesException took 0.001 sec
+Testcase: negativeArgumentsForReplaceFromTopNeedNotCauseException took 0 sec

@@ -1,0 +1,23 @@
+Testsuite: org.jikesrvm.compilers.opt.inlining.InlineSequenceTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 10, Time elapsed: 0.016 sec
+
+Testcase: testContainsMethod took 0 sec
+	SKIPPED
+Testcase: testGetInlineDepthWithEmptySequence took 0 sec
+	SKIPPED
+Testcase: testGetRootMethod took 0 sec
+	SKIPPED
+Testcase: testEqualsWithMoreInlines took 0 sec
+	SKIPPED
+Testcase: testGetInlineDepth took 0 sec
+	SKIPPED
+Testcase: testGetCaller took 0 sec
+	SKIPPED
+Testcase: testGetCallSite took 0 sec
+	SKIPPED
+Testcase: testGetMethod took 0 sec
+	SKIPPED
+Testcase: testEquals took 0 sec
+	SKIPPED
+Testcase: testEnumerateFromRoot took 0 sec
+	SKIPPED

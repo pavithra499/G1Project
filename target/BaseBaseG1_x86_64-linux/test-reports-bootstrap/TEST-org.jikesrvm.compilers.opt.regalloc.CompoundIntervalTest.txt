@@ -1,0 +1,75 @@
+Testsuite: org.jikesrvm.compilers.opt.regalloc.CompoundIntervalTest
+Tests run: 36, Failures: 0, Errors: 0, Skipped: 36, Time elapsed: 0.019 sec
+
+Testcase: addNonIntersectingStopIntervalNeedNotBeInIntervalThatsMerged took 0 sec
+	SKIPPED
+Testcase: addRangeChangesEndOfLastIntervalWhenRangesDirectlyFollowEachOther_NoDefUse took 0 sec
+	SKIPPED
+Testcase: copyStopsAtTheRightPointWhenRequired took 0 sec
+	SKIPPED
+Testcase: compoundIntervalsCanBeMadeFrequent took 0 sec
+	SKIPPED
+Testcase: compoundIntervalsDoNotHaveASpillIntervalByDefault took 0 sec
+	SKIPPED
+Testcase: intervalsDoNotIntersectWhenContainedIntervalsDoNotIntersect took 0 sec
+	SKIPPED
+Testcase: nonEmptyCompoundIntervalsIntersectWithThemselves took 0 sec
+	SKIPPED
+Testcase: headSetInclusiveIncludesBorderInterval took 0 sec
+	SKIPPED
+Testcase: compoundIntervalsAreInfrequentByDefault took 0 sec
+	SKIPPED
+Testcase: addRangeCreatesNewIntervalWhenThereIsAGapBetweenRanges took 0 sec
+	SKIPPED
+Testcase: getBasicIntervalReturnsIntervalWithGreatestStartIfMultipleMatch took 0 sec
+	SKIPPED
+Testcase: intervalsDoNotIntersectWhenFirstIntervalIsHigherThanTheOther took 0 sec
+	SKIPPED
+Testcase: getBasicIntervalRegAllocStateReturnsIntervalWithGreatestStartIfMultipleMatch took 0 sec
+	SKIPPED
+Testcase: addNonIntersectingSetStopsAtTheStopInterval took 0 sec
+	SKIPPED
+Testcase: copyCopiesAllIntervalsToNewCompoundIntervalWithRightRegister took 0 sec
+	SKIPPED
+Testcase: intervalsDoNotIntersectWhenFirstIntervalIsLowerThanTheOther took 0 sec
+	SKIPPED
+Testcase: registersDoNotMatterForIntersection took 0 sec
+	SKIPPED
+Testcase: getBasicIntervalRegAllocStateReturnsAnIntervalIfOneMatches took 0 sec
+	SKIPPED
+Testcase: getBasicIntervalReturnsNullIfNoMatchingIntervalIsFound took 0 sec
+	SKIPPED
+Testcase: emptyCompoundIntervalsDoNotIntersectWithAnything took 0 sec
+	SKIPPED
+Testcase: headSetInclusiveIncludesIntervalWithUpperBound took 0 sec
+	SKIPPED
+Testcase: addRangeChangesEndOfLastIntervalWhenRangesDirectlyFollowEachOther_DefUseSameInstruction took 0 sec
+	SKIPPED
+Testcase: assignCausesAssignmentOfTheIntervalsRegisterToTheGivenRegister took 0 sec
+	SKIPPED
+Testcase: addNonIntersectingSetAddsAllIntervalsInTheOtherCompoundInterval took 0 sec
+	SKIPPED
+Testcase: compoundIntervalsDoNotIntersectWithEmptyIntervals took 0 sec
+	SKIPPED
+Testcase: tailSetInclusiveIncludesIntervalWithLowerBound took 0 sec
+	SKIPPED
+Testcase: removeIntervalsAndCacheWorksWhenOtherIntervalIsASubset took 0 sec
+	SKIPPED
+Testcase: intervalsDoNotIntersectWhenContainedIntervalsDoNotIntersectOtherWayRound took 0 sec
+	SKIPPED
+Testcase: compoundIntervalConstructorDoesNotCheckForNull took 0 sec
+	SKIPPED
+Testcase: getBasicIntervalReturnsAnIntervalIfOneMatches took 0 sec
+	SKIPPED
+Testcase: addRangeChangesEndOfLastIntervalWhenRangesDirectlyFollowEachOther_DefUse took 0 sec
+	SKIPPED
+Testcase: spillingOfCompoundIntervalSetsTheSpillInterval took 0 sec
+	SKIPPED
+Testcase: copyMethodsReallyReturnCopies took 0 sec
+	SKIPPED
+Testcase: removeIntervalsAndCacheDoesNothingWhenOtherIntervalsIsEmpty took 0 sec
+	SKIPPED
+Testcase: removeIntervalsAndCacheDoesNothingWhenIntervalEndsAfterThisOne took 0 sec
+	SKIPPED
+Testcase: getBasicIntervalRegAllocStateReturnsNullIfNoMatchingIntervalIsFound took 0 sec
+	SKIPPED

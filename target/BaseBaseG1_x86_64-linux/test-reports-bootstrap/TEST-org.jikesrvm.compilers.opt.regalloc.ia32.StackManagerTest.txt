@@ -1,0 +1,15 @@
+Testsuite: org.jikesrvm.compilers.opt.regalloc.ia32.StackManagerTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 6, Time elapsed: 0.013 sec
+
+Testcase: instructionsMayNeedScratchDueToArchitectureRestrictions took 0 sec
+	SKIPPED
+Testcase: instructionsNeedAScratchIfOneRegisterAppearsMultipleTimes took 0 sec
+	SKIPPED
+Testcase: instructionsWithMemoryOperandsAlwaysNeedScratch took 0 sec
+	SKIPPED
+Testcase: osrPointsNeverNeedScratchRegisters took 0 sec
+	SKIPPED
+Testcase: noScratchNeededForFMOV took 0 sec
+	SKIPPED
+Testcase: normalInstructionsDoNotNeedScratch took 0 sec
+	SKIPPED

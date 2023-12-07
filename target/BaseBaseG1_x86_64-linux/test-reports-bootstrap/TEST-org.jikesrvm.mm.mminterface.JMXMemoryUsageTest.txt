@@ -1,0 +1,9 @@
+Testsuite: org.jikesrvm.mm.mminterface.JMXMemoryUsageTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.012 sec
+
+Testcase: canCreateEmptyUsage took 0 sec
+	SKIPPED
+Testcase: addingASpaceAndADiscontiguousSpaceLeadsToMaxOfMinusOne took 0 sec
+	SKIPPED
+Testcase: discontigousSpacesAreMappedCorrectly took 0 sec
+	SKIPPED

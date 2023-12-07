@@ -1,0 +1,9 @@
+Testsuite: org.jikesrvm.classloader.FieldVectorTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.012 sec
+
+Testcase: finalArrayIsTrimmedToSize took 0 sec
+	SKIPPED
+Testcase: cachingWorks took 0 sec
+	SKIPPED
+Testcase: oneFieldIsSavedCorrectly took 0 sec
+	SKIPPED

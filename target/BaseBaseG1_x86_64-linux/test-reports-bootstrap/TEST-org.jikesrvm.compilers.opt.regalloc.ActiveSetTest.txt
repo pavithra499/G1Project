@@ -1,0 +1,33 @@
+Testsuite: org.jikesrvm.compilers.opt.regalloc.ActiveSetTest
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 15, Time elapsed: 0.016 sec
+
+Testcase: freeIntervalMakesSpillIntervalsAvailableAgainWhenPossible took 0 sec
+	SKIPPED
+Testcase: currentlyActiveReturnsFalseForNonactiveRegisters took 0 sec
+	SKIPPED
+Testcase: freeIntervalHasNoVisibleInfluenceOnFreeIntervalsWhenThereAreStillIntervalsLeftInTheCompoundInterval took 0 sec
+	SKIPPED
+Testcase: currentlyActiveReturnsFalseForEmptySets took 0 sec
+	SKIPPED
+Testcase: findAvailableRegisterIgnoresInfrequentIntervalsWhenDesired took 0 sec
+	SKIPPED
+Testcase: expireOldIntervalsRemovesIntervalsWhoseEndPrecedesTheNewStart took 0 sec
+	SKIPPED
+Testcase: getBasicIntervalReturnsCorrectIntervalIfRegisterContainsTheInstruction took 0 sec
+	SKIPPED
+Testcase: currentlyActiveReturnsTrueForActiveRegisters took 0 sec
+	SKIPPED
+Testcase: activeSetStartsWithNothingSpilled took 0 sec
+	SKIPPED
+Testcase: expireOldIntervalsCallsFreeInterval took 0 sec
+	SKIPPED
+Testcase: getCurrentIntervalReturnsTheCorrectIntervalForActiveRegisters took 0 sec
+	SKIPPED
+Testcase: getBasicIntervalReturnsNullIfNoBasicIntervalForTheRegisterContainsTheInstruction took 0 sec
+	SKIPPED
+Testcase: freeIntervalDeallocatesPhysicalRegisters took 0 sec
+	SKIPPED
+Testcase: freeIntervalWorksForIntervalsAssignedToUnspilledNonPhysicalRegisters took 0 sec
+	SKIPPED
+Testcase: getCurrentIntervalIsAssumedToAlwaysReturnAValidValue took 0 sec
+	SKIPPED

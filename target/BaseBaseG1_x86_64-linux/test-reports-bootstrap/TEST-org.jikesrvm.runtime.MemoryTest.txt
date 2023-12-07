@@ -1,0 +1,17 @@
+Testsuite: org.jikesrvm.runtime.MemoryTest
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 7, Time elapsed: 0.013 sec
+
+Testcase: testOverlappingCopyOfShortArrayFromGreaterToLesserPosition took 0 sec
+	SKIPPED
+Testcase: testMemcopyFromLesserToGreaterOverlapping took 0 sec
+	SKIPPED
+Testcase: testMemcopyWholeArray took 0 sec
+	SKIPPED
+Testcase: testOverlappingCopyOfByteArrayFromGreaterToLesserPosition took 0 sec
+	SKIPPED
+Testcase: testOverlappingCopyOfLongArrayFromGreaterToLesserPosition took 0 sec
+	SKIPPED
+Testcase: testOverlappingCopyOfIntArrayFromGreaterToLesserPosition took 0 sec
+	SKIPPED
+Testcase: testMemcopyFromGreaterToLesserOverlapping took 0 sec
+	SKIPPED

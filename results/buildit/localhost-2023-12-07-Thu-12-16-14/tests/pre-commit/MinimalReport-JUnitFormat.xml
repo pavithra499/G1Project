@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="US-ASCII"?><!--
+    This file contains the most essential information from the source Jikes RVM
+    XML report for use in systems that support the JUnit XML format. Note that the
+    JUnit XML format is actually not defined by JUnit but by the Ant JUnit plugin.
+
+    - - - Information about the format - - -
+    1. We do not use the errors element because the Jikes RVM XML format does not distinguish between errors and failures.
+    we're only using the failures element so the error count is always 0.
+    2. We use the error output of testcase elements to save some information from our reports that
+    we could not display otherwise.
+    --><!--JUnit displays the time in seconds but our format uses milliseconds.--><testsuites errors="0" failures="0" name="pre-commit - variant: pre-commit" skipped="0" tests="0" time="0" timestamp="2023-12-07T17:17:45Z"/>

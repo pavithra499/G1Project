@@ -1,0 +1,7 @@
+Testsuite: org.jikesrvm.compilers.opt.regalloc.MappedBasicIntervalTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.041 sec
+
+Testcase: mappedBasicIntervalsAndBasicIntervalsAreNotConsideredEqual took 0.006 sec
+Testcase: equalObjectsHaveTheSameHashcode took 0.008 sec
+Testcase: mappedBasicIntervalsAllowNullArguments took 0 sec
+Testcase: mappedBasicIntervalConstructorReadsBeginAndEndOfBasicInterval took 0 sec

@@ -1,0 +1,7 @@
+Testsuite: org.jikesrvm.runtime.MagicTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.012 sec
+
+Testcase: getCompilerLevelMapsToTheCorrectConstantsForOpt took 0 sec
+	SKIPPED
+Testcase: getCompilerLevelMapsToTheCorrectConstantsForBaseline took 0 sec
+	SKIPPED

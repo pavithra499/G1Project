@@ -1,0 +1,25 @@
+Testsuite: org.jikesrvm.JavaLangClassTest
+Tests run: 22, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.109 sec
+
+Testcase: getEnclosingConstructorReturnsNullForLocalClassInMethod took 0.004 sec
+Testcase: getEnclosingMethodReturnsEnclosingMethodForLocalClassInMethod took 0.004 sec
+Testcase: getResource_nullArgumentLeadsToNPE took 0 sec
+Testcase: getField_nullNameLeadsToNPE took 0 sec
+Testcase: getDeclaredField_nullNameLeadsToNPE took 0 sec
+Testcase: getResourceAsStream_nullNameLeadsToNPE took 0 sec
+Testcase: getEnclosingMethodReturnsNullForLocalClassInStaticInitializer took 0.003 sec
+Testcase: getMethod_initMethodCannotBeFound took 0 sec
+Testcase: forName_String_nullNameLeadsToNPE took 0.001 sec
+Testcase: getMethod_clinitMethodCannotBeFound took 0 sec
+Testcase: getEnclosingMethodReturnsNullForLocalClassInConstructor took 0.003 sec
+Testcase: getEnclosingMethodReturnsNullForLocalClassInType took 0.002 sec
+Testcase: forName_MultipleArgs_nullNameLeadsToNPE took 0 sec
+Testcase: getDeclaredMethod_nullNameLeadsToNPE took 0 sec
+Testcase: getMethodsForAbstractClassesDoesntReturnDuplicateImplementationmethods took 0.006 sec
+Testcase: getEnclosingConstructorReturnsNullForLocalClassInType took 0.003 sec
+Testcase: getEnclosingMethodReturnsConstructorForLocalClassInConstructor took 0.003 sec
+Testcase: isAssignalbleFrom_nullClassLeadsToNPE took 0 sec
+Testcase: getEnclosingConstructorReturnsNullForLocalClassInStaticInitializer took 0.003 sec
+Testcase: getAnnotation_nullAnnotationLeadsToNPE took 0 sec
+Testcase: isAnnotationPresent_nullAnnotationLeadsToNPE took 0 sec
+Testcase: getMethod_nullNameLeadsToNPE took 0 sec

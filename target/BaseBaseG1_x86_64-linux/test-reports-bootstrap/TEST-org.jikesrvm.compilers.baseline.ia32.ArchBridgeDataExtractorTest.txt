@@ -1,0 +1,7 @@
+Testsuite: org.jikesrvm.compilers.baseline.ia32.ArchBridgeDataExtractorTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.013 sec
+
+Testcase: longParametersInBridgeMethodsAreProcessedCorrectlyFor64BitAddressing took 0 sec
+	SKIPPED
+Testcase: longParametersInBridgeMethodsAreProcessedCorrectlyFor32BitAddressing took 0 sec
+	SKIPPED

@@ -1,0 +1,27 @@
+Testsuite: org.jikesrvm.classloader.TypeReferenceTest
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 12, Time elapsed: 0.016 sec
+
+Testcase: mappingOfPrimitiveClassNameToTypeReferenceIsNullForNull took 0 sec
+	SKIPPED
+Testcase: mappingOfPrimitiveClassNameIsCorrectForInt took 0 sec
+	SKIPPED
+Testcase: mappingOfPrimitiveClassNameIsCorrectForBoolean took 0 sec
+	SKIPPED
+Testcase: mappingIsCaseSensitive took 0 sec
+	SKIPPED
+Testcase: mappingOfPrimitiveClassNameIsCorrectForFloat took 0 sec
+	SKIPPED
+Testcase: mappingOfPrimitiveClassNameIsCorrectForShort took 0 sec
+	SKIPPED
+Testcase: mappingOfPrimitiveClassNameIsCorrectForByte took 0 sec
+	SKIPPED
+Testcase: mappingOfPrimitiveClassNameIsCorrectForChar took 0 sec
+	SKIPPED
+Testcase: mappingOfPrimitiveClassNameIsCorrectForLong took 0 sec
+	SKIPPED
+Testcase: mappingOfPrimitiveClassNameIsCorrectForVoid took 0 sec
+	SKIPPED
+Testcase: mappingOfPrimitiveClassNameToTypeReferenceIsNullForNonPrimitives took 0 sec
+	SKIPPED
+Testcase: mappingOfPrimitiveClassNameIsCorrectForDouble took 0 sec
+	SKIPPED

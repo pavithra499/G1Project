@@ -1,0 +1,13 @@
+Testsuite: org.jikesrvm.compilers.baseline.ia32.BaselineGCMapIteratorTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 0.012 sec
+
+Testcase: getNextReferenceAddressReturnsCorrectReferenceIfReferencesArePresent took 0 sec
+	SKIPPED
+Testcase: getNextReferenceAddressReturnsZeroIfNoReferencesArePresent took 0 sec
+	SKIPPED
+Testcase: getNextReturnAddressAddressReturnsZeroIfNoJSRsArePresent took 0 sec
+	SKIPPED
+Testcase: setupOfIteratorRequiresOnlyCompiledMethod took 0 sec
+	SKIPPED
+Testcase: usingIteratorBeforeCallToSetupIsNotPossible took 0 sec
+	SKIPPED

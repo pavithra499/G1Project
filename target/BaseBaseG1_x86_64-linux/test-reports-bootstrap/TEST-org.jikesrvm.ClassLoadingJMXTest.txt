@@ -1,0 +1,11 @@
+Testsuite: org.jikesrvm.ClassLoadingJMXTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 4, Time elapsed: 0.013 sec
+
+Testcase: classCountIncreasesWhenNewClassIsLoaded took 0 sec
+	SKIPPED
+Testcase: classLoadingNumbersAreConsistent took 0 sec
+	SKIPPED
+Testcase: classloadedCountCountsClasssesInTheBootimage took 0 sec
+	SKIPPED
+Testcase: classloadingVerbosityCanBeToggled took 0 sec
+	SKIPPED

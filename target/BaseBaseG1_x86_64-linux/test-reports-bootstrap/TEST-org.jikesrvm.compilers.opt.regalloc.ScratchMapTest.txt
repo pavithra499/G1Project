@@ -1,0 +1,27 @@
+Testsuite: org.jikesrvm.compilers.opt.regalloc.ScratchMapTest
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 12, Time elapsed: 0.015 sec
+
+Testcase: beginSymbolicIntervalCreatesANewInterval took 0 sec
+	SKIPPED
+Testcase: beginScratchIntervalCreatesANewInterval took 0 sec
+	SKIPPED
+Testcase: newMapIsEmpty took 0 sec
+	SKIPPED
+Testcase: endScratchIntervalForNotStartedIntervalCausesNPE took 0 sec
+	SKIPPED
+Testcase: beginSymbolicIntervalAllowsRegisterAndItsScratchRegisterToBeTheSame took 0 sec
+	SKIPPED
+Testcase: endSymbolicIntervalForNotStartedIntervalCausesNPE took 0 sec
+	SKIPPED
+Testcase: markingRegistersAsDirtyMoreThanOnceIsHarmless took 0 sec
+	SKIPPED
+Testcase: endSymbolicIntervalRemovesInformationAboutScratchRegisterFromPendingMap took 0 sec
+	SKIPPED
+Testcase: beginScratchIntervalSavesInformationAboutScratchRegister took 0 sec
+	SKIPPED
+Testcase: markDirtyDoesNotCheckThatRegisterIsUsedInInstruction took 0 sec
+	SKIPPED
+Testcase: endScratchIntervalRemovesInformationAboutScratchRegisterFromPendingMap took 0 sec
+	SKIPPED
+Testcase: markDirtyMarksRegistersAsDirty took 0 sec
+	SKIPPED

@@ -1,0 +1,15 @@
+Testsuite: org.jikesrvm.compilers.opt.runtimesupport.CodePatchSyncRequestVisitorTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 6, Time elapsed: 0.013 sec
+
+Testcase: normalThreadsTakePartInHandshake took 0 sec
+	SKIPPED
+Testcase: codePatchingWorksWhenAThreadIsWaiting took 0 sec
+	SKIPPED: currently fails spuriously, see bug RVM-1096
+Testcase: codePatchingWorksWhenAThreadIsSleeping took 0 sec
+	SKIPPED: currently fails spuriously, see bug RVM-1096
+Testcase: checkAndSignalSetsCodePatchingFlag took 0 sec
+	SKIPPED
+Testcase: codePatchingWorksWhenAThreadIsSuspended took 0 sec
+	SKIPPED: currently fails spuriously, see bug RVM-1096
+Testcase: codePatchingWorksWhenAThreadIsParked took 0 sec
+	SKIPPED: currently fails spuriously, see bug RVM-1096

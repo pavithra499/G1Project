@@ -1,0 +1,25 @@
+Testsuite: org.jikesrvm.util.AddressInputStreamTest
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 11, Time elapsed: 0.016 sec
+
+Testcase: availableForMaximumSizeRegionsIsNonNegative took 0 sec
+	SKIPPED
+Testcase: skipAmountIsLimitedByEndOfStream took 0 sec
+	SKIPPED
+Testcase: availableForNewlyCreatedRegionIsEqualToRegionLength took 0 sec
+	SKIPPED
+Testcase: testReadOfByteArray took 0 sec
+	SKIPPED
+Testcase: skipAmountIsLimitedToIntMaxValue took 0 sec
+	SKIPPED
+Testcase: noBytesAreSkippedWhenSkipAmountIsNegative took 0 sec
+	SKIPPED
+Testcase: streamSupportsMarking took 0 sec
+	SKIPPED
+Testcase: markAndResetFollowsAPISpec took 0 sec
+	SKIPPED
+Testcase: availableIsLengthMinusReadBytes took 0 sec
+	SKIPPED
+Testcase: availableReturnsZeroForEmptyRegion took 0 sec
+	SKIPPED
+Testcase: readReturnsMinusOneForEmptyRegion took 0 sec
+	SKIPPED

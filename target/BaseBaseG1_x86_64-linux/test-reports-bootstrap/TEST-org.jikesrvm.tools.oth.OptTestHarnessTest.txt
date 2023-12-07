@@ -1,0 +1,97 @@
+Testsuite: org.jikesrvm.tools.oth.OptTestHarnessTest
+Tests run: 47, Failures: 0, Errors: 0, Skipped: 47, Time elapsed: 0.02 sec
+
+Testcase: usesSameOptionsAsBootimageCompilerWhenRequested took 0 sec
+	SKIPPED
+Testcase: doesNotCrashWhenNoOptCompilerIsAvailable took 0 sec
+	SKIPPED
+Testcase: convertToClassNameWorksForClassfileName took 0 sec
+	SKIPPED
+Testcase: singleUnknownArgIsIgnored took 0 sec
+	SKIPPED
+Testcase: defaultCompilerForMethodsIsBaselineWhenVMIsBuildWithoutOptCompiler took 0 sec
+	SKIPPED
+Testcase: readingNonExistingFileCausesError took 0 sec
+	SKIPPED
+Testcase: convertToClassNameWorksForSourceFileNames took 0 sec
+	SKIPPED
+Testcase: supportsPerformanceMeasurements took 0 sec
+	SKIPPED
+Testcase: executeAndRunPrintsErrorMessageWhenMethodIsNotFound took 0 sec
+	SKIPPED
+Testcase: baselineCompilationCanBeSwitchedOnAndOff took 0 sec
+	SKIPPED
+Testcase: defaultCompilerIsBaselineWhenVMIsBuildWithoutOptCompiler took 0 sec
+	SKIPPED
+Testcase: testHarnessCanExecuteInstanceMethods took 0 sec
+	SKIPPED
+Testcase: complainsWhenMethodWithNameIsNotFound took 0 sec
+	SKIPPED
+Testcase: complainsWhenNoMainMethodExists took 0 sec
+	SKIPPED
+Testcase: methodsCompiledUsingExecutedAndRunAreNotCounted took 0 sec
+	SKIPPED
+Testcase: canReadCommandLineArgumentsFromFile took 0 sec
+	SKIPPED
+Testcase: methodsAreBaselineCompiledIfRequested took 0 sec
+	SKIPPED
+Testcase: canRunAndExecuteMainMethod took 0 sec
+	SKIPPED
+Testcase: knownArgumentsAreProcessedEvenIfUnknownArgumentsAppear took 0 sec
+	SKIPPED
+Testcase: testHarnessCanExecuteStaticMethods took 0 sec
+	SKIPPED
+Testcase: convertToClassNameWorksForASimplePathString took 0 sec
+	SKIPPED
+Testcase: executeAndRunCannotParseNormalClassTypes took 0 sec
+	SKIPPED
+Testcase: incompleteArgsLeadToErrorMessage took 0 sec
+	SKIPPED
+Testcase: executeAndRunPrintsErrorMessageWhenMethodWithDescriptorIsNotFound took 0 sec
+	SKIPPED
+Testcase: methodsWillOptCompiledIfRequested took 0 sec
+	SKIPPED
+Testcase: executeAndRunCanDistinguishMethodsBasedOnDescriptors took 0 sec
+	SKIPPED
+Testcase: convertToClassNameWorksForFullyQualifiedClassNames took 0 sec
+	SKIPPED
+Testcase: methodsAreOptCompiledByDefaultWhenSingleMethodIsCompiled took 0 sec
+	SKIPPED
+Testcase: methodOptionsCanDistinguishMethodsBasedOnDescriptors took 0 sec
+	SKIPPED
+Testcase: methodsAreOptCompiledByDefault took 0 sec
+	SKIPPED
+Testcase: executeAndRunCanParseStringArrays took 0 sec
+	SKIPPED
+Testcase: canLoadAClassByItsClassname took 0 sec
+	SKIPPED
+Testcase: convertToClassNameDoesNotWorkForComplexPathstrings took 0 sec
+	SKIPPED
+Testcase: methodsWillBeBaselineCompiledIfRequested took 0 sec
+	SKIPPED
+Testcase: commandLineArgumentFileSupportsComments took 0 sec
+	SKIPPED
+Testcase: complainsWhenClassForMethodIsNotFound took 0 sec
+	SKIPPED
+Testcase: loadClassThatDoesNotExist took 0 sec
+	SKIPPED
+Testcase: disableClassLoadingWorksOnlyInConjunctionWithExecuteAndRun took 0 sec
+	SKIPPED: not enabled by default because it may interfere with other tests
+Testcase: argumentsAreEagerlyEvaluatedFromLeftToRight took 0 sec
+	SKIPPED
+Testcase: convertToClassNameWorksForDescriptors took 0 sec
+	SKIPPED
+Testcase: emptyArgsLeadToNoCompiles took 0 sec
+	SKIPPED
+Testcase: executeAndRunPrintsErrorMessageWhenExceptionOccursWhenInvokingDefaultConstructor took 0 sec
+	SKIPPED
+Testcase: readingEmptyFilesDoesNotCauseProblems took 0 sec
+	SKIPPED
+Testcase: executeAndRunCannotParseGeneralArrays took 0 sec
+	SKIPPED
+Testcase: executeAndRunThrowsInternalErrorWhenNotEnoughArgumentsAreProvided took 0 sec
+	SKIPPED
+Testcase: complainsWhenMethodWithDescriptorIsNotFound took 0 sec
+	SKIPPED
+Testcase: allUnknownArgsAreIgnored took 0 sec
+	SKIPPED
